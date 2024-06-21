@@ -10,6 +10,7 @@
 body{
     font-family: 'Roboto',serif;
     overflow-x: hidden;
+    background-color: #fff;
 }
 .text-coloring{
     color: transparent !important;
