@@ -29,7 +29,6 @@ body{
 }
 .navbar{
     background: #1b0135;
-    
 }
 .navbar .navbar-toggler{
     border: 1px solid #fafafa;
@@ -48,7 +47,7 @@ body{
     filter: drop-shadow(1px 1px 1px rgb(0, 0, 0));
 }
 .drop-img-shadow {
-    filter: drop-shadow(0px 15px 25px #570bad);
+    filter: drop-shadow(0px 15px 25px #4e4e4e98);
 }
 .main-btn{
     box-shadow: 0px 5px 10px #0000009e !important;
