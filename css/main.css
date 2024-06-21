@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: cursive;
+    font-family: cursive,sans-serif;
 }
 
 .body-color{
     background-color: #fff;
 }
 body{
-    font-family: cursive;
+    font-family: cursive,sans-serif;
     overflow-x: hidden;
     background-color: #fff;
 }
