@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-color{
+    background-color: #fff;
+}
+body{
+    font-family: 'Roboto',serif;
+    overflow-x: hidden;
+}
+.text-coloring{
+    color: transparent !important;
+    background-clip: text;
+    animation-duration: 5s;
+    background-image: linear-gradient(-225deg, #8c16d0 0%, #7C64D5 48%, #5418d7 100%);
+    filter: drop-shadow(1px 1px 1px rgb(0, 0, 0));
+}
+.add-text-shadow{
+    filter: drop-shadow(1px 1px 1px rgb(0, 0, 0));
+    color: #8b1087 !important;
+
+}
+.span-color{
+    color: #3616d3;
+}
+.navbar{
+    background: #1b0135;
+    box-shadow: 0px 10px 25px #570badbe ;
+}
+.navbar .navbar-toggler{
+    border: 1px solid #fafafa;
+}
+.navbar .navbar-toggler:focus{
+    box-shadow: none;
+}
+.navbar-brand{
+    filter: drop-shadow(0px 2px 5px rgba(0, 0, 0, 0.666));
+}
+.navbar .navbar-nav .active{
+    color: #00d0ff !important;
+    filter: drop-shadow(1px 1px 1px rgb(0, 0, 0));
+}
+.navbar .navbar-nav .nav-link{
+    filter: drop-shadow(1px 1px 1px rgb(0, 0, 0));
+}
+.drop-img-shadow {
+    filter: drop-shadow(0px 15px 25px #570bad);
+}
+.main-btn{
+    box-shadow: 0px 5px 10px #0000009e !important;
+    background: #630abb !important;
+    border: 1px solid #630abb !important;
+}
+.main-btn:focus{
+    box-shadow: 0px 5px 10px #0000009e !important;
+}
+.card{
+    box-shadow: 0px 2px 20px #9702f4c2;
+    color: #0d00fd;
+}
+
+.footer{
+    background: #1b0135;
+}
+.footer .copyright > span {
+    color: #00d0ff;
+}
+.footer .copyright div span {
+    color: #7C64D5;
+}
+.footer .contact ul svg{
+    width: 20px;
+    height: 20px;
+}
+.footer .facebook{
+    background-color: #1877f2;
+}
+.footer .twitter{
+    background-color: #1da1f2;
+}
+.footer .linkedin{
+    background-color: #0077b5;
+}
+.footer .youtube{
+    background-color: #ff0000;
+}
