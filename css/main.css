@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: cursive,sans-serif;
+    font-family: "Roboto",sans-serif;
 }
 
 .body-color{
     background-color: #fff;
 }
 body{
-    font-family: cursive,sans-serif;
+    font-family: "Roboto",sans-serif;
     overflow-x: hidden;
     background-color: #fff;
 }
